@@ -4,5 +4,5 @@ This repo contains Core files
 2. actionEngine : a simple workFlow engine. That executes a json req model in syncholsly and asyncnolosy, sequntially, parraly and nested.
 3. action Event : a simple event controller on pub: subscriber desing model
 4. actionEditor : converts a simple html Element into a powerful editor.
-5. opearte: differant operation on any kind of object.
+5. operate: differant operation on any kind of object.
 6. helpers : host of handly methods for functinal programming
